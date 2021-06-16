@@ -1,1 +1,1 @@
-# calcultor-by-HtML-css-and-Jd
+# calcultor-by-HtML-css-and-JS
